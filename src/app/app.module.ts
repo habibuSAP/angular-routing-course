@@ -1,3 +1,6 @@
+/*  Project developed by Habibu Abdullahi 2022.02.01
+  A step by step course learning of Angular Routing 
+*/
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule } from '@angular/common/http';
